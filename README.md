@@ -44,3 +44,4 @@ Para obter informações sobre os nossos termos de serviço consulte o link abai
 ---
 
 Esperamos que você aproveite ao máximo o DPG! Seja bem-vindo à nossa comunidade de jogadores entusiastas.
+# DPG
